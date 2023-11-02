@@ -8,7 +8,7 @@ description = "My blog"
 default_language = "en"
 
 # Theme name to use
-# theme = ""
+#theme = "hermit_zola"
 
 # Highlight all code blocks found
 # Or enable the highlight.js in the 'extra' config section
@@ -73,7 +73,8 @@ hermit_menu = [
 
 hermit_social = [
     { name = "github", link = "https://github.com" },
-    { name = "email", link = "mailto:author@domain.com" }
+    { name = "email", link = "mailto:author@domain.com" },
+    { name = "linkedin", link = "https://www.linkedin.com/in/lachlan-burns-688803169/"}
 ]
 
 
