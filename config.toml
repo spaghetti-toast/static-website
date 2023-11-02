@@ -74,8 +74,8 @@ hermit_menu = [
 hermit_social = [
     { name = "email", link = "mailto:lachlanburns1001@gmail.com" },
     { name = "linkedin", link = "https://www.linkedin.com/in/lachlan-burns/"},
-#    { name = "github", link = "https://github.com" },
-    { name = "gitea", link = "https://gitea.lachlans.world/lachlan"},
+    { name = "github", link = "https://github.com/spaghetti-toast/" },
+    { name = "gitea", link = "https://gitea.lachlans.world/lachlan/"},
 ]
 
 
